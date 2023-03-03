@@ -70,6 +70,7 @@ header p{
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
+    box-shadow: -2px -11px 16px rgba(0, 0, 0, 0.185);
 }
 
 
@@ -79,6 +80,7 @@ header p{
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
+    box-shadow: -2px -11px 16px rgba(0, 0, 0, 0.185);
 }
 
 
